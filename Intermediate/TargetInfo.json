@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Netshoot",
+			"Path": "D:\\ue4Project\\tencentClassProject\\Netshoot\\Source\\Netshoot.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "NetshootEditor",
+			"Path": "D:\\ue4Project\\tencentClassProject\\Netshoot\\Source\\NetshootEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Netshoot.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{60106D16-A7D0-40DC-92A5-EAE732F52B82}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Netshoot.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NetshootEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\client.bat" />
+    <None Include="..\..\clientWithSession.bat" />
+    <None Include="..\..\server.bat" />
+    <None Include="..\..\serverWithSession.bat" />
+    <None Include="..\..\多人枪战游戏.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{AF262BB5-F004-47AF-9DF5-7C7D6BD00F59}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Netshoot">
+      <UniqueIdentifier>{123737BB-4E07-4192-802D-30FA094BDD31}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Netshoot\Netshoot.Build.cs">
+      <Filter>Source\Netshoot</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Netshoot\Netshoot.cpp">
+      <Filter>Source\Netshoot</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Netshoot\Netshoot.h">
+      <Filter>Source\Netshoot</Filter>
+    </ClInclude>
+    <Filter Include="Source\Netshoot\Private">
+      <UniqueIdentifier>{DB06C30D-8878-4455-B8CB-1F9327FF4E0C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Netshoot\Private\CustomCreateSessionCallbackProxy.cpp">
+      <Filter>Source\Netshoot\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Netshoot\Private\CustomCreateSessionCallbackProxy.h">
+      <Filter>Source\Netshoot\Private</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,688 @@
+﻿Log file open, 10/20/21 15:30:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Netshoot
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.132887
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: Warning: OSS: TryLoadSubsystemAndSetDefault: LoadSubsystemModule([Steam]) failed
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-8400 CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060 6GB
+LogInit: Compiled (64-bit): Oct 12 2021 09:26:09
+LogInit: Compiled with Visual C++: 19.29.30136.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  Level_01 -server -log -nosteam
+LogInit: Base Directory: D:/ue4code/UnrealEngine/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.20-07.30.54:346][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2021.10.20-07.30.54:346][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.10.20-07.30.54:346][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+[2021.10.20-07.30.54:347][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.10.20-07.30.54:347][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.10.20-07.30.54:348][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.10.20-07.30.54:348][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.10.20-07.30.54:348][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.10.20-07.30.54:348][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.10.20-07.30.54:349][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.10.20-07.30.54:349][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.10.20-07.30.54:349][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.10.20-07.30.54:349][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.10.20-07.30.54:350][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:1]]
+[2021.10.20-07.30.54:350][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.10.20-07.30.54:350][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.10.20-07.30.54:351][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.10.20-07.30.54:351][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.10.20-07.30.54:351][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.10.20-07.30.54:351][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.10.20-07.30.54:352][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2021.10.20-07.30.54:353][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2021.10.20-07.30.54:353][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:1]]
+[2021.10.20-07.30.54:353][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2021.10.20-07.30.54:353][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.10.20-07.30.54:354][  0]LogConfig: Setting CVar [[r.DBuffer:0]]
+[2021.10.20-07.30.54:354][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.10.20-07.30.54:354][  0]LogConfig: Setting CVar [[r.MSAA.CompositingSampleCount:4]]
+[2021.10.20-07.30.54:355][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.10.20-07.30.54:355][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+[2021.10.20-07.30.54:355][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+[2021.10.20-07.30.54:355][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.10.20-07.30.54:356][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.10.20-07.30.54:356][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.10.20-07.30.54:356][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.10.20-07.30.54:356][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.10.20-07.30.54:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.10.20-07.30.54:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.10.20-07.30.54:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.10.20-07.30.54:357][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.10.20-07.30.54:358][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.10.20-07.30.54:358][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.10.20-07.30.54:358][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.10.20-07.30.54:359][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.10.20-07.30.54:361][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.10.20-07.30.54:361][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+[2021.10.20-07.30.54:362][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.10.20-07.30.54:362][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.10.20-07.30.54:362][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.10.20-07.30.54:363][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.10.20-07.30.54:363][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.10.20-07.30.54:363][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.10.20-07.30.54:363][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.10.20-07.30.54:364][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.10.20-07.30.54:364][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.10.20-07.30.54:365][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.10.20-07.30.54:365][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.10.20-07.30.54:365][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.10.20-07.30.54:366][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.10.20-07.30.54:366][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.10.20-07.30.54:366][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+[2021.10.20-07.30.54:366][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+[2021.10.20-07.30.54:367][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:367][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.20-07.30.54:367][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.20-07.30.54:367][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:368][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.20-07.30.54:368][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:368][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.20-07.30.54:369][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.20-07.30.54:369][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.20-07.30.54:369][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.20-07.30.54:369][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.20-07.30.54:370][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.20-07.30.54:370][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.20-07.30.54:370][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.20-07.30.54:370][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.20-07.30.54:371][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.20-07.30.54:371][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.20-07.30.54:371][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.20-07.30.54:371][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.20-07.30.54:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.20-07.30.54:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.20-07.30.54:372][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.20-07.30.54:373][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.20-07.30.54:373][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.20-07.30.54:373][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:373][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.20-07.30.54:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.20-07.30.54:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.20-07.30.54:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.20-07.30.54:374][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.20-07.30.54:375][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.20-07.30.54:378][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.20-07.30.54:378][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.20-07.30.54:378][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.20-07.30.54:379][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.20-07.30.54:379][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.20-07.30.54:379][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.20-07.30.54:379][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.20-07.30.54:380][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.20-07.30.54:380][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.20-07.30.54:380][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.20-07.30.54:381][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.20-07.30.54:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.20-07.30.54:381][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.20-07.30.54:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.20-07.30.54:382][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.20-07.30.54:382][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.20-07.30.54:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.20-07.30.54:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.20-07.30.54:383][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.20-07.30.54:384][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.20-07.30.54:384][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.20-07.30.54:384][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.20-07.30.54:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.20-07.30.54:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.20-07.30.54:385][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:385][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.20-07.30.54:386][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.20-07.30.54:386][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.20-07.30.54:386][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.20-07.30.54:386][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.20-07.30.54:387][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.20-07.30.54:387][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.20-07.30.54:387][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.20-07.30.54:388][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.20-07.30.54:388][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:388][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.20-07.30.54:388][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.20-07.30.54:389][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.20-07.30.54:389][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.20-07.30.54:389][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.20-07.30.54:390][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.20-07.30.54:390][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.20-07.30.54:391][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.20-07.30.54:393][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.20-07.30.54:394][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.20-07.30.54:395][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.20-07.30.54:395][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.20-07.30.54:396][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.20-07.30.54:396][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.20-07.30.54:397][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.20-07.30.54:397][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.20-07.30.54:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.20-07.30.54:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.20-07.30.54:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.20-07.30.54:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.20-07.30.54:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.20-07.30.54:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.20-07.30.54:399][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.20-07.30.54:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.20-07.30.54:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.20-07.30.54:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.20-07.30.54:400][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.20-07.30.54:401][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.20-07.30.54:401][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:401][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.20-07.30.54:402][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.20-07.30.54:402][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:402][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.20-07.30.54:402][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.20-07.30.54:403][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.20-07.30.54:403][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.20-07.30.54:403][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.10.20-07.30.54:403][  0]LogHAL: Display: Platform has ~ 16 GB [17110147072 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.10.20-07.30.54:404][  0]LogInit: Going up to parent DeviceProfile []
+[2021.10.20-07.30.54:404][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:404][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.10.20-07.30.54:405][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.10.20-07.30.54:405][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:405][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.10.20-07.30.54:406][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:406][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.10.20-07.30.54:406][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.10.20-07.30.54:407][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.10.20-07.30.54:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.10.20-07.30.54:409][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.10.20-07.30.54:409][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.10.20-07.30.54:410][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.10.20-07.30.54:410][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.10.20-07.30.54:410][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.10.20-07.30.54:410][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.10.20-07.30.54:411][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.10.20-07.30.54:411][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.10.20-07.30.54:411][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.10.20-07.30.54:411][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.10.20-07.30.54:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.10.20-07.30.54:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.10.20-07.30.54:412][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.10.20-07.30.54:412][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.10.20-07.30.54:413][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:413][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.10.20-07.30.54:413][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.10.20-07.30.54:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.10.20-07.30.54:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.10.20-07.30.54:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.10.20-07.30.54:415][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.10.20-07.30.54:415][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.10.20-07.30.54:415][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.10.20-07.30.54:415][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.10.20-07.30.54:416][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.10.20-07.30.54:416][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.10.20-07.30.54:416][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.10.20-07.30.54:416][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.10.20-07.30.54:417][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.10.20-07.30.54:417][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.10.20-07.30.54:417][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.10.20-07.30.54:418][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.10.20-07.30.54:418][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.10.20-07.30.54:418][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.10.20-07.30.54:418][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.10.20-07.30.54:419][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.10.20-07.30.54:419][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.10.20-07.30.54:419][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.10.20-07.30.54:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.10.20-07.30.54:420][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.10.20-07.30.54:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.10.20-07.30.54:420][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.10.20-07.30.54:421][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.10.20-07.30.54:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.10.20-07.30.54:421][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.10.20-07.30.54:422][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:422][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.10.20-07.30.54:422][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.10.20-07.30.54:423][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.10.20-07.30.54:425][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.10.20-07.30.54:426][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.10.20-07.30.54:426][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.10.20-07.30.54:426][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.10.20-07.30.54:427][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.10.20-07.30.54:427][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.10.20-07.30.54:427][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:428][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.10.20-07.30.54:428][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.10.20-07.30.54:428][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.10.20-07.30.54:428][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.10.20-07.30.54:429][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.10.20-07.30.54:429][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.10.20-07.30.54:429][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.10.20-07.30.54:429][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.10.20-07.30.54:430][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.10.20-07.30.54:430][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.10.20-07.30.54:430][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.10.20-07.30.54:431][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.10.20-07.30.54:431][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.10.20-07.30.54:431][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.10.20-07.30.54:431][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.10.20-07.30.54:432][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.10.20-07.30.54:432][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.10.20-07.30.54:432][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.10.20-07.30.54:432][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.10.20-07.30.54:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.10.20-07.30.54:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.10.20-07.30.54:433][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.10.20-07.30.54:434][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.10.20-07.30.54:434][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.10.20-07.30.54:434][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.10.20-07.30.54:434][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.10.20-07.30.54:435][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.10.20-07.30.54:435][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.10.20-07.30.54:435][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:436][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.10.20-07.30.54:436][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.10.20-07.30.54:436][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Scalability.ini]
+[2021.10.20-07.30.54:437][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.10.20-07.30.54:437][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.10.20-07.30.54:437][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.10.20-07.30.54:437][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.10.20-07.30.54:438][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.10.20-07.30.54:438][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.10.20-07.30.54:438][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.10.20-07.30.54:439][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Engine.ini]
+[2021.10.20-07.30.54:441][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ue4Project/tencentClassProject/Netshoot/Saved/Config/Windows/Editor.ini]
+[2021.10.20-07.30.54:442][  0]LogInit: Computer: DESKTOP-GH4GCSH
+[2021.10.20-07.30.54:442][  0]LogInit: User: yanning
+[2021.10.20-07.30.54:443][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.10.20-07.30.54:443][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.10.20-07.30.54:443][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.10.20-07.30.54:443][  0]LogMemory: Platform Memory Stats for Windows
+[2021.10.20-07.30.54:444][  0]LogMemory: Process Physical Memory: 135.32 MB used, 135.32 MB peak
+[2021.10.20-07.30.54:444][  0]LogMemory: Process Virtual Memory: 113.43 MB used, 113.43 MB peak
+[2021.10.20-07.30.54:444][  0]LogMemory: Physical Memory: 7636.21 MB used,  8681.29 MB free, 16317.51 MB total
+[2021.10.20-07.30.54:444][  0]LogMemory: Virtual Memory: 134206872.00 MB used,  10856.07 MB free, 134217728.00 MB total
+[2021.10.20-07.30.54:447][  0]LogWindows: WindowsPlatformFeatures disabled or dedicated server build
+[2021.10.20-07.30.54:475][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.10.20-07.30.54:475][  0]LogInit: Using OS detected language (zh-CN).
+[2021.10.20-07.30.54:476][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.10.20-07.30.54:478][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2021.10.20-07.30.54:593][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2021.10.20-07.30.54:593][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2021.10.20-07.30.54:594][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2021.10.20-07.30.54:594][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2021.10.20-07.30.54:594][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2021.10.20-07.30.54:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2021.10.20-07.30.54:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2021.10.20-07.30.54:595][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2021.10.20-07.30.54:596][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.10.20-07.30.54:596][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.10.20-07.30.54:596][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.10.20-07.30.54:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.10.20-07.30.54:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.10.20-07.30.54:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.10.20-07.30.54:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.10.20-07.30.54:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.10.20-07.30.54:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.10.20-07.30.54:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.10.20-07.30.54:849][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.10.20-07.30.54:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.10.20-07.30.54:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.10.20-07.30.54:850][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.10.20-07.30.54:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.10.20-07.30.54:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.10.20-07.30.54:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.10.20-07.30.54:890][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.10.20-07.30.54:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.10.20-07.30.54:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.10.20-07.30.54:907][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.10.20-07.30.54:911][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.10.20-07.30.54:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.10.20-07.30.54:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.10.20-07.30.54:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.10.20-07.30.54:930][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.10.20-07.30.54:934][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.10.20-07.30.54:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.10.20-07.30.54:937][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.10.20-07.30.54:940][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.10.20-07.30.54:951][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.10.20-07.30.54:965][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.10.20-07.30.54:965][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../ue4Project/tencentClassProject/Netshoot/Intermediate/Shaders/WorkingDirectory/23864/).
+[2021.10.20-07.30.54:966][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yanning/AppData/Local/Temp/UnrealShaderWorkingDir/E348A5F24BEBA624305A8E93FDABA228/'.
+[2021.10.20-07.30.54:966][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.10.20-07.30.54:967][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.10.20-07.30.54:967][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.10.20-07.30.55:506][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.10.20-07.30.55:566][  0]LogDerivedDataCache: Loaded boot cache 0.06s 79MB ../../../../../ue4Project/tencentClassProject/Netshoot/DerivedDataCache/Boot.ddc.
+[2021.10.20-07.30.55:566][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../../ue4Project/tencentClassProject/Netshoot/DerivedDataCache/Boot.ddc
+[2021.10.20-07.30.55:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ue4Project/tencentClassProject/Netshoot/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.20-07.30.55:567][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.10.20-07.30.55:568][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.10.20-07.30.55:568][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2021.10.20-07.30.55:645][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.08 seconds
+[2021.10.20-07.30.55:645][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1472.89MBs, RandomWriteSpeed=12.10MBs. Assigned SpeedClass 'Local'
+[2021.10.20-07.30.55:647][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2021.10.20-07.30.55:648][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.10.20-07.30.55:648][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.10.20-07.30.55:649][  0]LogInit: Using OS detected language (zh-CN).
+[2021.10.20-07.30.55:649][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.10.20-07.30.55:649][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the language.
+[2021.10.20-07.30.55:650][  0]LogTextLocalizationManager: No localization for 'zh-CN' exists, so 'en' will be used for the locale.
+[2021.10.20-07.30.55:653][  0]LogAssetRegistry: FAssetRegistry took 0.0018 seconds to start up
+[2021.10.20-07.30.55:839][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
+[2021.10.20-07.30.55:839][  0]LogPackageLocalizationCache: Processed 27 localized package path(s) for 1 prioritized culture(s) in 0.013585 seconds
+[2021.10.20-07.30.55:909][  0]LogInit: Selected Device Profile: [Windows]
+[2021.10.20-07.30.55:909][  0]LogInit: Active device profile: [000001DCFD9CFC00][000001DCF8DE4380 49] Windows
+[2021.10.20-07.30.55:910][  0]LogInit: Profiles: [000001DCFD9CFC00][000001DCF8DE4380 49] Windows, [000001DCFD9FBA00][000001DCF8DF2640 49] WindowsNoEditor, [000001DCFD9CED00][000001DCF8DF6900 49] WindowsServer, [000001DCFD9FAD00][000001DCF8DE8B80 49] WindowsClient, [000001DCFD9CF700][000001DCF8DFAE00 49] IOS, [000001DCFD9F8200][000001DCF8E030C0 49] iPadAir, [000001DCFD9CF400][000001DCF8E07380 49] iPadAir2, [000001DCFD97D400][000001DCFCC438C0 49] IPadPro, [000001DCFD97D500][000001DCF8E0B900 49] iPadAir3, [000001DCFD9CF500][000001DCFCC3BBC0 49] iPadAir4, [000001DCFD97D900][000001DCF8E14300 49] iPadMini2, [000001DCFD9CF200][000001DCFCC3E5C0 49] iPadMini3, [000001DCFD97DB00][000001DCFCC4C880 49] iPadMini4, [000001DCFD9CD400][000001DCFCC50B40 49] iPadMini5, [000001DCFD9AD000][000001DCFCC61000 49] iPhone6, [000001DCFD9AD100][000001DCF8DFF040 49] iPodTouch6, [000001DCFD97F500][000001DCFCC6D580 49] iPhone7, [000001DCFD97F800][000001DCFCC5D5C0 49] iPodTouch7, [000001DCFD9AD700][000001DCFCC65880 49] iPhone5S, [000001DCFD97F200][000001DCFCC59B40 49] iPhone6Plus, [000001DCFD9AD800][000001DCFCC68280 49] iPhone6S, [000001DCFD97CC00][000001DCFCC70540 49] iPhone6SPlus, [000001DCFD9AF600][000001DCFCC74800 49] iPhone7Plus, [000001DCFD97DE00][000001DCFCC78AC0 49] iPhoneSE, [000001DCFD9AC300][000001DCFCC7CD80 49] iPhone8, [000001DCFD97E600][000001DCFCC55000 49] iPhone8Plus, [000001DCFD9AD500][000001DCFCC852C0 49] iPhoneX, [000001DCFD97C200][000001DCFCC89580 49] iPhoneXS, [000001DCFD9AED00][000001DCFCC8D840 49] iPhoneXSMax, [000001DCFD97D100][000001DCFCC91B00 49] iPhoneXR, [000001DCFD9AF200][000001DCFCC94240 49] iPhone11, [000001DCFD97F900][000001DCFCC98500 49] iPhone11Pro, [000001DCFD9AEF00][000001DCFCC9C7C0 49] iPhone11ProMax, [000001DCFD97C600][000001DCFCCA0A80 49] iPhoneSE2, [000001DCFD9AF000][000001DCFCCA4D40 49] iPhone12Mini, [000001DCFD97F600][000001DCFCC80FC0 49] iPhone12, [000001DCFD9AD600][000001DCFCCA9240 49] iPhone12Pro, [000001DCFD97FD00][000001DCFCCB1500 49] iPhone12ProMax, [000001DCFD9AE200][000001DCFCCB57C0 49] iPadPro105, [000001DCFD97FA00][000001DCFCCB9A80 49] iPadPro129, [000001DCFD9AC200][000001DCFCCBC1C0 49] iPadPro97, [000001DCFD97CB00][000001DCFCCC0480 49] iPadPro2_129, [000001DCFD9AC600][000001DCFCCC4740 49] iPad5, [000001DCFD97F000][000001DCFCCC8A00 49] iPad6, [000001DCFD9AE100][000001DCFCCCCCC0 49] iPad7, [000001DCFD97FC00][000001DCFCCD0F80 49] iPad8, [000001DCFD9AEB00][000001DCFCCAD200 49] iPadPro11, [000001DCFD97C700][000001DCFCCD5480 49] iPadPro2_11, [000001DCFD9AC500][000001DCFCCDD740 49] iPadPro3_129, [000001DCFD97EA00][000001DCFCCE1A00 49] iPadPro4_129, [000001DCFD9AF100][000001DCFCCE4140 49] AppleTV, [000001DCFD97C900][000001DCFCCE8400 49] AppleTV4K, [000001DCFD9F8100][000001DCFCCEC6C0 49] TVOS, [000001DCFD9EB800][000001DCFC5E2980 49] Mac, [000001DCFD9AE000][000001DCFC5E6C40 49] MacClient, [000001DCFD9EBC00][000001DCFC5EAF00 49] MacNoEditor, [000001DCFD9ADF00][000001DCFC5EF1C0 49] MacServer, [000001DCFD9FA600][000001DCFCCD9440 49] Linux, [000001DCFD97C100][000001DCFC5F36C0 49] LinuxAArch64, [000001DCFD9FB100][000001DCFC5FB980 49] LinuxNoEditor, [000001DCFD97E900][000001DCFC5FE0C0 49] LinuxAArch64NoEditor, [000001DCFD9FA100][000001DCFC602380 49] LinuxClient, [000001DCFD97EC00][000001DCFC606640 49] LinuxAArch64Client, [000001DCFD9FB200][000001DCFC60A900 49] LinuxServer, [000001DCFD97CF00][000001DCFC60EBC0 49] LinuxAArch64Server, [000001DCFD9FBB00][000001DCFC612E80 49] Android, [000001DCFD97E700][000001DCFC617140 49] Android_Low, [000001DCFD9F8700][000001DCFC61B400 49] Android_Mid, [000001DCFD97FB00][000001DCFC5F7680 49] Android_High, [000001DCFD9FB800][000001DCFC61F900 49] Android_Default, [000001DCFD97CE00][000001DCFC627BC0 49] Android_Adreno4xx, [000001DCFD9FAB00][000001DCFC62A300 49] Android_Adreno5xx_Low, [000001DCFD97D600][000001DCFC62E5C0 49] Android_Adreno5xx, [000001DCFD9FA000][000001DCFC632880 49] Android_Adreno6xx, [000001DCFD97E000][000001DCFC636B40 49] Android_Adreno6xx_Vulkan, [000001DCFD9ACB00][000001DCFC63AE00 49] Android_Mali_T6xx, [000001DCFD9EAA00][000001DCFC63F0C0 49] Android_Mali_T7xx, [000001DCFD9AC800][000001DCFC643380 49] Android_Mali_T8xx, [000001DCFD9EA300][000001DCFC647640 49] Android_Mali_G71, [000001DCFD9AF300][000001DCFC6238C0 49] Android_Mali_G72, [000001DCFD9EB000][000001DCFC64BB40 49] Android_Mali_G72_Vulkan, [000001DCFD9AFF00][000001DCFC652280 49] Android_Mali_G76, [000001DCFD9E9E00][000001DCFC656540 49] Android_Mali_G76_Vulkan, [000001DCFD9ADE00][000001DCFC65A800 49] Android_Mali_G77, [000001DCFD97F100][000001DCFC65EAC0 49] Android_Mali_G77_Vulkan, [000001DCFD9ACA00][000001DCFC662D80 49] Android_Mali_G78, [000001DCFD97F300][000001DCFC667040 49] Android_Mali_G78_Vulkan, [000001DCFD9AC900][000001DCFC66B300 49] Android_Mali_G710, [000001DCFD97F700][000001DCFC66F5C0 49] Android_Mali_G710_Vulkan, [000001DCFD9AE500][000001DCFC673880 49] Android_Vulkan_SM5, [000001DCFD9EB400][000001DCFC64FB00 49] Android_PowerVR_G6xxx, [000001DCFD9AE600][000001DCFC676200 49] Android_PowerVR_GT7xxx, [000001DCFD9E8F00][000001DCFC67E4C0 49] Android_PowerVR_GE8xxx, [000001DCFD9AD200][000001DCFC682780 49] Android_PowerVR_GM9xxx, [000001DCFD9E9D00][000001DCFC686A40 49] Android_PowerVR_GM9xxx_Vulkan, [000001DCFD9AE400][000001DCFC68AD00 49] Android_TegraK1, [000001DCFD9E8100][000001DCFC68EFC0 49] Android_Unknown_Vulkan, [000001DCFD9AD300][000001DCFC693280 49] Lumin, [000001DCFD9EB600][000001DCFC697540 49] Lumin_Desktop, [000001DCFD9FA400][000001DCFC69B800 49] HoloLens, 
+[2021.10.20-07.30.55:925][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.10.20-07.30.55:925][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.10.20-07.30.55:926][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.10.20-07.30.55:926][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.10.20-07.30.55:926][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.10.20-07.30.55:937][  0]LogNetVersion: Netshoot 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2292170303)
+[2021.10.20-07.30.56:022][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.20-07.30.56:037][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.10.20-07.30.56:083][  0]LogPython: Using Python 3.7.7
+[2021.10.20-07.30.56:479][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 77903B1549829CB1081B4F917B4E6555 | Instance: C52E70AD4A53F54C9D76CB92F2F08B02 (DESKTOP-GH4GCSH-23864).
+[2021.10.20-07.30.56:491][  0]LogCollectionManager: Loaded 0 collections in 0.000724 seconds
+[2021.10.20-07.30.56:493][  0]LogFileCache: Scanning file cache for directory 'D:/ue4Project/tencentClassProject/Netshoot/Saved/Collections/' took 0.00s
+[2021.10.20-07.30.56:493][  0]LogFileCache: Scanning file cache for directory 'D:/ue4Project/tencentClassProject/Netshoot/Content/Developers/yanning/Collections/' took 0.00s
+[2021.10.20-07.30.56:494][  0]LogFileCache: Scanning file cache for directory 'D:/ue4Project/tencentClassProject/Netshoot/Content/Collections/' took 0.00s
+[2021.10.20-07.30.56:494][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.10.20-07.30.56:631][  0]SourceControl: Source control is disabled
+[2021.10.20-07.30.56:632][  0]SourceControl: Source control is disabled
+[2021.10.20-07.30.56:635][  0]SourceControl: Source control is disabled
+[2021.10.20-07.30.56:640][  0]LogUProjectInfo: Found projects:
+[2021.10.20-07.30.56:707][  0]LogOpenImageDenoise: OIDN starting up
+[2021.10.20-07.30.56:739][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.10.20-07.30.56:760][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.20-07.30.56:760][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.10.20-07.30.56:815][  0]LogOcInput: OculusInput pre-init called
+[2021.10.20-07.30.56:824][  0]LogUObjectArray: 21903 objects as part of root set at end of initial load.
+[2021.10.20-07.30.56:824][  0]LogUObjectAllocator: 5897856 out of 0 bytes used by permanent object pool.
+[2021.10.20-07.30.56:824][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.10.20-07.30.56:859][  0]LogEngine: Initializing Engine...
+[2021.10.20-07.30.56:860][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.10.20-07.30.56:871][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.10.20-07.30.56:871][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.10.20-07.30.57:606][  0]LogDerivedDataCache: Saved boot cache 0.73s 79MB ../../../../../ue4Project/tencentClassProject/Netshoot/DerivedDataCache/Boot.ddc.
+[2021.10.20-07.30.57:607][  0]LogInit: Texture streaming: Disabled
+[2021.10.20-07.30.57:748][  0]LogInit: Display: Game Engine Initialized.
+[2021.10.20-07.30.57:748][  0]LogNiagaraEditor: GEditor isn't valid! Particle reset commands will not work for Niagara components!
+[2021.10.20-07.30.57:793][  0]LogInit: Display: Starting Game.
+[2021.10.20-07.30.58:208][  0]LogPackageName: SearchForPackageOnDisk took   0.414s to resolve Level_01.umap.
+[2021.10.20-07.30.58:208][  0]LogNet: Browse: /Game/Maps/Level_01?Name=Player
+[2021.10.20-07.30.58:209][  0]LogLoad: LoadMap: /Game/Maps/Level_01?Name=Player
+[2021.10.20-07.30.58:209][  0]LogWorld: BeginTearingDown for /Temp/Untitled_0
+[2021.10.20-07.30.58:213][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.10.20-07.30.58:224][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.20-07.30.58:540][  0]LogAIModule: Creating AISystem for world Level_01
+[2021.10.20-07.30.58:540][  0]LogLoad: Game class is 'MyGameMode_C'
+[2021.10.20-07.30.58:542][  0]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2021.10.20-07.30.58:542][  0]LogNetCore: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2021.10.20-07.30.58:542][  0]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2021.10.20-07.30.58:542][  0]LogNet: Created socket for bind address: 0.0.0.0 on port 7777
+[2021.10.20-07.30.58:543][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.10.20-07.30.58:544][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2021.10.20-07.30.58:548][  0]LogWorld: Bringing World /Game/Maps/Level_01.Level_01 up for play (max tick rate 30) at 2021.10.20-15.30.58
+[2021.10.20-07.30.58:549][  0]LogWorld: Bringing up level for play took: 0.003195
+[2021.10.20-07.30.58:549][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.10.20-07.30.58:549][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.10.20-07.30.58:550][  0]LogLoad: Took 0.340574 seconds to LoadMap(/Game/Maps/Level_01)
+[2021.10.20-07.30.58:555][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.10.20-07.30.58:555][  0]LogLoad: (Engine Initialization) Total time: 5.31 seconds
+[2021.10.20-07.30.58:556][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.10.20-07.30.58:888][  9]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57189
+[2021.10.20-07.30.58:888][  9]LogHandshake: SendConnectChallenge. Timestamp: 0.331568, Cookie: 058023223028178044041088060197109033092196033187072178087248
+[2021.10.20-07.30.58:921][ 10]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:57189
+[2021.10.20-07.30.58:921][ 10]LogHandshake: SendChallengeAck. InCookie: 058023223028178044041088060197109033092196033187072178087248
+[2021.10.20-07.30.58:921][ 10]LogNet: Server accepting post-challenge connection from: 127.0.0.1:57189
+[2021.10.20-07.30.58:922][ 10]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.10.20-07.30.58:922][ 10]LogNet: NotifyAcceptedConnection: Name: Level_01, TimeStamp: 10/20/21 15:30:58, [UNetConnection] RemoteAddr: 127.0.0.1:57189, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.10.20-07.30.58:923][ 10]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:57189, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.10.20-07.30.58:923][ 10]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Level_01.Level_01: Accepted
+[2021.10.20-07.30.58:923][ 10]LogNet: Remote platform little endian=1
+[2021.10.20-07.30.58:924][ 10]LogNet: This platform little endian=1
+[2021.10.20-07.30.58:926][ 10]LogNetVersion: Netshoot 1.0.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3847081628)
+[2021.10.20-07.30.58:955][ 11]LogNet: Login request: ?Name=DESKTOP-GH4GCSH-1B0A4C124321705AF6A59C936BD43573 userId: NULL:DESKTOP-GH4GCSH-1B0A4C124321705AF6A59C936BD43573 platform: NULL
+[2021.10.20-07.30.59:218][ 19]LogNet: Client netspeed is 100000
+[2021.10.20-07.30.59:218][ 19]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-GH4GCSH-1B0A4C124321705AF6A59C936BD43573?SplitscreenCount=1
+[2021.10.20-07.30.59:220][ 19]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.10.20-07.30.59:222][ 19]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.10.20-07.30.59:224][ 19]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.10.20-07.30.59:224][ 19]LogNet: Join succeeded: DESKTOP-GH4GCSH-1B0A
+[2021.10.20-07.31.03:122][136]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2021.10.20-07.31.03:122][136]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57189, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:DESKTOP-GH4GCSH-1B0A4C124321705AF6A59C936BD43573
+[2021.10.20-07.31.03:124][136]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:57189, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:DESKTOP-GH4GCSH-1B0A4C124321705AF6A59C936BD43573, Channels: 9, Time: 2021.10.20-07.31.03
+[2021.10.20-07.31.03:132][136]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:57189, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_0, Owner: MyPlayerController_C_0, UniqueId: NULL:DESKTOP-GH4GCSH-1B0A4C124321705AF6A59C936BD43573
+[2021.10.20-07.31.03:134][136]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)
+[2021.10.20-07.31.15:893][522]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63980
+[2021.10.20-07.31.15:893][522]LogHandshake: SendConnectChallenge. Timestamp: 17.336058, Cookie: 092085224150185144209220119179039139019208048216126208182037
+[2021.10.20-07.31.15:927][523]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:63980
+[2021.10.20-07.31.15:927][523]LogHandshake: SendChallengeAck. InCookie: 092085224150185144209220119179039139019208048216126208182037
+[2021.10.20-07.31.15:928][523]LogNet: Server accepting post-challenge connection from: 127.0.0.1:63980
+[2021.10.20-07.31.15:929][523]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2021.10.20-07.31.15:929][523]LogNet: NotifyAcceptedConnection: Name: Level_01, TimeStamp: 10/20/21 15:31:15, [UNetConnection] RemoteAddr: 127.0.0.1:63980, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.10.20-07.31.15:929][523]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:63980, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2021.10.20-07.31.15:930][523]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Level_01.Level_01: Accepted
+[2021.10.20-07.31.15:930][523]LogNet: Remote platform little endian=1
+[2021.10.20-07.31.15:931][523]LogNet: This platform little endian=1
+[2021.10.20-07.31.15:961][524]LogNet: Login request: ?Name=DESKTOP-GH4GCSH-BE3FEC874FE381A5D1988CB21359638D userId: NULL:DESKTOP-GH4GCSH-BE3FEC874FE381A5D1988CB21359638D platform: NULL
+[2021.10.20-07.31.16:258][533]LogNet: Client netspeed is 100000
+[2021.10.20-07.31.16:260][533]LogNet: Join request: /Engine/Maps/Entry?Name=DESKTOP-GH4GCSH-BE3FEC874FE381A5D1988CB21359638D?SplitscreenCount=1
+[2021.10.20-07.31.16:262][533]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2021.10.20-07.31.16:265][533]LogNet: Join succeeded: DESKTOP-GH4GCSH-BE3F
+[2021.10.20-07.31.18:634][604]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2021.10.20-07.31.18:634][604]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63980, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:DESKTOP-GH4GCSH-BE3FEC874FE381A5D1988CB21359638D
+[2021.10.20-07.31.18:636][604]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:63980, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:DESKTOP-GH4GCSH-BE3FEC874FE381A5D1988CB21359638D, Channels: 9, Time: 2021.10.20-07.31.18
+[2021.10.20-07.31.18:636][604]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:63980, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MyPlayerController_C_1, Owner: MyPlayerController_C_1, UniqueId: NULL:DESKTOP-GH4GCSH-BE3FEC874FE381A5D1988CB21359638D
+[2021.10.20-07.31.18:638][604]LogOnlineSession: Warning: OSS: No game present to leave for session (GameSession)

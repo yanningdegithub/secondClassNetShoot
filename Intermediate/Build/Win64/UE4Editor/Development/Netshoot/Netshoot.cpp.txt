@@ -1,0 +1,2 @@
+D:\ue4Project\tencentClassProject\Netshoot\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\Definitions.Netshoot.h
+D:\ue4Project\tencentClassProject\Netshoot\Source\Netshoot\Netshoot.h

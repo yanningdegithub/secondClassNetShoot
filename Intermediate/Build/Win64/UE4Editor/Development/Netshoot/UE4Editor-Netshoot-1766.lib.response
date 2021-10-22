@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Netshoot-1766.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\ue4code\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\ue4Project\tencentClassProject\Netshoot\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\CustomCreateSessionCallbackProxy.cpp.obj"
+"D:\ue4Project\tencentClassProject\Netshoot\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\Netshoot.cpp.obj"
+"D:\ue4Project\tencentClassProject\Netshoot\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\CustomCreateSessionCallbackProxy.gen.cpp.obj"
+"D:\ue4Project\tencentClassProject\Netshoot\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\Netshoot.init.gen.cpp.obj"
+"D:\ue4code\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\ue4Project\tencentClassProject\Netshoot\Intermediate\Build\Win64\UE4Editor\Development\Netshoot\UE4Editor-Netshoot-1766.lib"

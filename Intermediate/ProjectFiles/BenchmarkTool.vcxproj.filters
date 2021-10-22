@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\BenchmarkTool\BenchmarkTool.Target.cs" />
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\BenchmarkTool\BenchmarkTool.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{47F5BBEF-E3E0-4D95-B2AB-69878460E1A5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\BenchmarkTool\Private\BenchmarkTool.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\BenchmarkTool\Private\BenchmarkTool.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{FBACDDE5-3866-4B65-9F87-E7E2E2FD56E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{337A9F5C-7C65-4BB9-A22C-392C1795722D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\BenchmarkTool\Resources\Windows\BenchmarkTool.ico">
+      <Filter>Resources\Windows</Filter>
+    </None>
+  </ItemGroup>
+</Project>

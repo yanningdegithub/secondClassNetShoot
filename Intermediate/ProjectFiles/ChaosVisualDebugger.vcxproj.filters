@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\ChaosVisualDebugger.Target.cs" />
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\ChaosVisualDebugger.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{1F6CF0CA-76A3-42A5-B1E9-EFC5F210F30A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\ChaosVisualDebuggerMain.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\ChaosVisualDebuggerMain.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\ChaosVisualDebuggerSlateStyle.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\ChaosVisualDebuggerSlateStyle.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Private\Linux">
+      <UniqueIdentifier>{680B7F3F-C321-45D0-8047-5F9524A0AFC7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\Linux\ChaosVisualDebuggerLinux.cpp">
+      <Filter>Private\Linux</Filter>
+    </ClCompile>
+    <Filter Include="Private\Mac">
+      <UniqueIdentifier>{2DE6A4FA-AA7E-4CD2-8E66-B64E96C6D71A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\Mac\ChaosVisualDebuggerMac.cpp">
+      <Filter>Private\Mac</Filter>
+    </ClCompile>
+    <Filter Include="Private\Windows">
+      <UniqueIdentifier>{0F42128D-A93F-4A91-83A0-B16AF9899BF2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\Windows\ChaosVisualDebuggerWindows.cpp">
+      <Filter>Private\Windows</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Private\Windows\ChaosVisualDebuggerWindows.h">
+      <Filter>Private\Windows</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{5D9E9F46-5222-444A-9DF3-5063E62D13FA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{0AE66A4E-A729-4D2E-91D4-AF08BE6CEED1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\..\..\..\ue4code\UnrealEngine\Engine\Source\Programs\ChaosVisualDebugger\Resources\Windows\ChaosVisualDebugger.ico">
+      <Filter>Resources\Windows</Filter>
+    </None>
+  </ItemGroup>
+</Project>

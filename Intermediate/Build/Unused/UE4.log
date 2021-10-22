@@ -1,0 +1,9 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\ue4code\UnrealEngine).
+  Creating makefile for UE4Editor (no existing makefile)
+  Creating makefile for ShaderCompileWorker (no existing makefile)
+  Building UE4Editor and ShaderCompileWorker...
+  Using Visual Studio 2019 14.29.30136 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 1 action with 6 processes...
+    [1/1] UE4Editor.target
+  Total time in Parallel executor: 1.75 seconds
+  Total execution time: 56.66 seconds
